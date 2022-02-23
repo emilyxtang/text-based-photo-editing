@@ -12,7 +12,7 @@ The project is made up of three files:
 
 Installation
 --------------------
-Python 3.9.2 or later must be installed. It can be downloaded at https://www.python.org/downloads/. Pillow 8.1.2 or later must be installed. It can be downloaded in Command Prompt on Windows 10, or Terminal on MacOS. The Cimpl version 1.04 library and point_manipulation.py are required.
+Python 3.9.2 or later must be installed. It can be downloaded at https://www.python.org/downloads/. Pillow 8.1.2 or later must be installed. It can be downloaded in Command Prompt on Windows 10, or Terminal on MacOS. The [Cimpl version 1.04 library](https://github.com/emilyxtang/text-based-photo-editing/blob/main/Cimpl.py) and [point_manipulation.py](https://github.com/emilyxtang/text-based-photo-editing/blob/main/point_manipulation.py) are required.
 
 Usage
 --------------------
