@@ -1,4 +1,4 @@
-# T081's Text-Based Photo Editing Program
+# Team T081's Text-Based Photo Editing Program
 Version 1.0 April 14th, 2021
 
 Description
@@ -6,9 +6,9 @@ Description
 The project contains three files that will allow the user to apply various filters to images. Multiple filters may be applied on top of each other. The manipulated image can then be saved.
 
 The project is made up of three files:
-- T081_image.filters.py is a Python file containing all of the image filters
-- T081_interactive_ui.py is an interactive user interface
-- T081_batch_ui.py is a batch user interface
+- [T081_image.filters.py](https://github.com/emilyxtang/text-based-photo-editing/blob/main/T081_image_filters.py) is a Python file containing all of the image filters
+- [T081_interactive_ui.py](https://github.com/emilyxtang/text-based-photo-editing/blob/main/T081_interactive_ui.py) is an interactive user interface
+- [T081_batch_ui.py](https://github.com/emilyxtang/text-based-photo-editing/blob/main/T081_interactive_ui.py) is a batch user interface
 
 Installation
 --------------------
