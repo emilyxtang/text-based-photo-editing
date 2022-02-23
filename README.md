@@ -1,4 +1,4 @@
-# Team T081's Text-Based Photo Editing Program
+# Text-Based Photo Editing Program
 Version 1.0 April 14th, 2021
 
 Description
